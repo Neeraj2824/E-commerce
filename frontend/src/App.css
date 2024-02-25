@@ -1,0 +1,81 @@
+
+.nav li{
+  display:inline;
+  padding: 30px;
+  background-size: 100px;
+}
+.nav{
+  background-color:blanchedalmond;
+  padding: 2%;
+  margin: 0%;
+ 
+}
+.foot{
+position: fixed;
+bottom: 0%;
+background-color: rgb(255, 195, 127);
+width: 100%;
+text-align: center;
+
+
+}
+
+.inputbox{
+display:flex;
+margin: 10px;
+padding: 7px;
+width: 200px;
+border: 1px solid thistle;
+background-color: darkgrey;
+
+}
+.form1{
+  background-color:wheat;
+  height: 385px;
+  width:500px;
+  margin-top: -12px;
+ 
+  border-radius: 90px;
+  
+}
+.products{
+  text-align: center;
+}
+
+.products ul li{
+  display:inline-block;
+  border: 1px solid black;
+  padding: 10px;
+  width: 15%;
+}
+.nav2 li{
+  display:inline;
+  padding: 30px;
+  background-size: 100px;
+
+}
+.nav2{
+  background-color:blanchedalmond;
+  padding: 2%;
+  margin: 0%;
+ 
+}
+
+.addproduct{
+  display:flex;
+  margin: 1px;
+  padding: 7px;
+  width: 200px;
+  border: 1px solid thistle;
+  background-color: darkgrey;
+ 
+}
+.form2{
+  background-color:wheat;
+  height: 385px;
+  width:500px;
+  margin-top: -12px;
+ 
+  border-radius: 90px;
+  
+}
